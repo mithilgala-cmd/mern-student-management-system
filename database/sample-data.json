@@ -1,1 +1,275 @@
-
+[{
+  "_id": {
+    "$oid": "6a2fd6716b5b89aa9b77431c"
+  },
+  "name": "Mithil",
+  "rollNo": 1,
+  "branch": "CSE",
+  "cgpa": 9,
+  "city": "Pune",
+  "skills": [
+    "Java",
+    "DSA"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a591b"
+  },
+  "name": "Sneha",
+  "rollNo": 2,
+  "branch": "AI",
+  "cgpa": 9.2,
+  "city": "Pune",
+  "skills": [
+    "Python",
+    "ML",
+    "TensorFlow"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a591c"
+  },
+  "name": "Rahul",
+  "rollNo": 3,
+  "branch": "ECE",
+  "cgpa": 7.8,
+  "city": "Delhi",
+  "skills": [
+    "C",
+    "Embedded"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a591d"
+  },
+  "name": "Priya",
+  "rollNo": 4,
+  "branch": "CSE",
+  "cgpa": 9.5,
+  "city": "Mumbai",
+  "skills": [
+    "Java",
+    "React"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a591e"
+  },
+  "name": "Karan",
+  "rollNo": 5,
+  "branch": "EEE",
+  "cgpa": 6.9,
+  "city": "Chennai",
+  "skills": [
+    "Electrical"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a591f"
+  },
+  "name": "Neha",
+  "rollNo": 6,
+  "branch": "AI",
+  "cgpa": 8.9,
+  "city": "Hyderabad",
+  "skills": [
+    "Python",
+    "DL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a5920"
+  },
+  "name": "Arjun",
+  "rollNo": 7,
+  "branch": "CSE",
+  "cgpa": 7.5,
+  "city": "Bangalore",
+  "skills": [
+    "C++",
+    "DSA"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a5921"
+  },
+  "name": "Riya",
+  "rollNo": 8,
+  "branch": "IT",
+  "cgpa": 8.1,
+  "city": "Pune",
+  "skills": [
+    "Web",
+    "JS"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a5922"
+  },
+  "name": "Vikas",
+  "rollNo": 9,
+  "branch": "ECE",
+  "cgpa": 7.2,
+  "city": "Delhi",
+  "skills": [
+    "VLSI"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a5923"
+  },
+  "name": "Anjali",
+  "rollNo": 10,
+  "branch": "AI",
+  "cgpa": 9,
+  "city": "Mumbai",
+  "skills": [
+    "ML",
+    "Python"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a5924"
+  },
+  "name": "Rohit",
+  "rollNo": 11,
+  "branch": "CSE",
+  "cgpa": 8.7,
+  "city": "Chennai",
+  "skills": [
+    "Java",
+    "Spring"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a5925"
+  },
+  "name": "Meena",
+  "rollNo": 12,
+  "branch": "EEE",
+  "cgpa": 6.5,
+  "city": "Hyderabad",
+  "skills": [
+    "Circuits"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a5926"
+  },
+  "name": "Sahil",
+  "rollNo": 13,
+  "branch": "IT",
+  "cgpa": 7.9,
+  "city": "Bangalore",
+  "skills": [
+    "Node",
+    "JS"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a5927"
+  },
+  "name": "Komal",
+  "rollNo": 14,
+  "branch": "CSE",
+  "cgpa": 9.3,
+  "city": "Mumbai",
+  "skills": [
+    "React",
+    "Node"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a5928"
+  },
+  "name": "Deepak",
+  "rollNo": 15,
+  "branch": "ECE",
+  "cgpa": 7.1,
+  "city": "Delhi",
+  "skills": [
+    "Signals"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a5929"
+  },
+  "name": "Pooja",
+  "rollNo": 16,
+  "branch": "AI",
+  "cgpa": 8.8,
+  "city": "Pune",
+  "skills": [
+    "NLP",
+    "Python"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a592a"
+  },
+  "name": "Nikhil",
+  "rollNo": 17,
+  "branch": "CSE",
+  "cgpa": 8,
+  "city": "Bangalore",
+  "skills": [
+    "DSA",
+    "Java"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a592b"
+  },
+  "name": "Isha",
+  "rollNo": 18,
+  "branch": "IT",
+  "cgpa": 8.4,
+  "city": "Hyderabad",
+  "skills": [
+    "Web",
+    "React"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fde0c2a58961ba45a592c"
+  },
+  "name": "Manish",
+  "rollNo": 19,
+  "branch": "EEE",
+  "cgpa": 6.8,
+  "city": "Chennai",
+  "skills": [
+    "Electrical"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a364420ebc57dfadefb6ccc"
+  },
+  "name": "Test",
+  "rollNo": 20,
+  "branch": "CSE",
+  "cgpa": 7.5,
+  "city": "Delhi",
+  "skills": [
+    "C"
+  ]
+}]
