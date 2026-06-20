@@ -67,15 +67,13 @@ MongoDB_Assignment_MithilGala.pdf
 README.md
 ```
 
-```
 
 ## 🚀 Future Scope
 
-```
+
 * Build REST APIs using Node.js and Express
 * Connect MongoDB with backend services
 * Develop frontend using React
 * Convert into full MERN stack application
 
 It simulates a real-world student database system with structured queries and operations.
-```
