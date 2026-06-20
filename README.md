@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project is a MongoDB-based Student Management System designed to demonstrate core database operations and query techniques. It covers CRUD operations, query operators, and data retrieval methods using MongoDB.
+This project is a MongoDB-based Student Management System designed to demonstrate core database operations and query techniques. It covers CRUD operations, query operators, and data retrieval methods using MongoDB. 
 
 This project serves as a foundational step towards building a full MERN stack application.
 
@@ -76,8 +76,4 @@ README.md
 * Develop frontend using React
 * Convert into full MERN stack application
 
----
-
-## 🔗 Repository Link
-
-https://github.com/mithilgala-cmd/mern-student-management-system
+It simulates a real-world student database system with structured queries and operations.
